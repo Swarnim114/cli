@@ -1,0 +1,6 @@
+1 Complete lab assignment 0
+2 Study for exam 1
+3 Buy groceries 2
+4 Call mom 0
+5 Finish project report 1
+6 call friend 0

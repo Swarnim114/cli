@@ -1,0 +1,16 @@
+john.doe@example.com
+invalid.email@domain
+alice@company.com
+bob123@website.com
+not_an_email
+user@domain.co.uk
+test@test@test.com
+valid.email@domain.com
+12345@numbers.com
+user.name+tag@example.com
+.invalid@start.com
+end.invalid@domain.
+mixed_case@DoMain.CoM
+very.common@example.com
+disposable.style.email.with+symbol@example.com
+other.email-with-hyphen@example.com

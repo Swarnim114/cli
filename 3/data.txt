@@ -1,0 +1,11 @@
+1001 Aarav_Patel 75 80 85
+1002 Diya_Sharma 65 70 68
+1003 Vihaan_Reddy 90 88 92
+1004 Ananya_Gupta 32 45 55
+1005 Arjun_Choudhury 78 82 80
+1006 Zara_Kapoor 85 88 90
+1007 Reyansh_Singh 60 58 62
+1008 Anika_Malhotra 70 72 75
+1009 Ishaan_Verma 40 38 42
+1010 Saanvi_Kumar 95 98 96
+1009 swarnim 100 100 100
